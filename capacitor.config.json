@@ -1,0 +1,9 @@
+{
+  "appId": "ge.gio.assistant",
+  "appName": "გიო",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
